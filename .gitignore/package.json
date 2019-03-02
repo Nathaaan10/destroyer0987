@@ -1,1 +1,8 @@
-
+{
+  "name": "Destroyer",
+  "description": "bot for LCPractice",
+  "version": "1.4",
+  "engines": {
+    "node": "10.3.0"
+  }
+}
