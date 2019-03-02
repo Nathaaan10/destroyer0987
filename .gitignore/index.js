@@ -7,7 +7,7 @@ const lcbot = new Discord.Client();
 
 db.defaults({ histoires: [], xp: []}).write()
 var prefix = "/";
-lcbot.login("NDc2ODQ4NjM5MTA1MzAyNTYw.DxKTkg.vprk8RpFkwe5k2ztXPTaTAHF5q8");
+lcbot.login("NDc2ODQ4NjM5MTA1MzAyNTYw.D1yVRQ.prHjNpn4ECCmRlFYyjUslDjUXF4");
 
 lcbot.on('ready', () => {
     lcbot.user.setStatus('dnd', 'BY LEVIL')
